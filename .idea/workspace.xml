@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1dc855a6-ea9f-41b5-9cc3-e9c3c2569b7f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ActionClass_06/ActionsClassUygulama.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DriverMetotları_01/DriverGetMetodları.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DriverMetotları_01/DriverManageMetodları.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DriverMetotları_01/DriverNavigateMetodları.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JunitAssentionOrnek_05/JunitAssention_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JunitAssertions_04/Assentions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JunitFramework_03/BeforClass_AfterClass_Notasyonları.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JunitFramework_03/Before_After_Ignore_Notasyonlari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JunitFramework_03/TestNotasyonu_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestNG_07/30 Dakikada Selenium 9 - TestNG Framework ve Ozellikleri.odp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestNG_07/C01_Notations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestNG_07/C02_Priority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestNG_07/C03_DependsOnMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/WebElements_02/WebElement02_Facebook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/WebElements_02/WebElement03_BestBuy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/WebElements_02/WebElements01_Amazon.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2HRjsj9D0puLZLRGHpsnzDcRWRE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Lenovo/Desktop/netaş dosya/OTOMASYON YÜKLEME/bootcamp/SeleniumEgitim2/src/test/java/ActionClass_06",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\Desktop\netaş dosya\OTOMASYON YÜKLEME\bootcamp\SeleniumEgitim2\src\test\java\ActionClass_06" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\Desktop\netaş dosya\OTOMASYON YÜKLEME\bootcamp\SeleniumEgitim2\src\test\java\TestNG_07" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C02_Priority">
+    <configuration name="Assentions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JunitAssertions_04.Assentions" />
+      <module name="SeleniumEgitim2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JunitAssertions_04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ActionsClassUygulama" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumEgitim2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestNG_07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ActionClass_06" />
+      <option name="MAIN_CLASS_NAME" value="ActionClass_06.ActionsClassUygulama" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JunitAssention_1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumEgitim2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JunitAssentionOrnek_05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="JunitAssentionOrnek" />
+      <option name="MAIN_CLASS_NAME" value="JunitAssentionOrnek_05.JunitAssention_1" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C01_Notations" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumEgitim2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestNG_07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ActionClass_06" />
+      <option name="MAIN_CLASS_NAME" value="TestNG_07.C01_Notations" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C02_Priority" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumEgitim2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestNG_07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestNG_07" />
+      <option name="MAIN_CLASS_NAME" value="TestNG_07.C02_Priority" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C02_Priority" />
+        <item itemvalue="TestNG.C01_Notations" />
+        <item itemvalue="JUnit.ActionsClassUygulama" />
+        <item itemvalue="JUnit.JunitAssention_1" />
+        <item itemvalue="Application.Assentions" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1dc855a6-ea9f-41b5-9cc3-e9c3c2569b7f" name="Changes" comment="" />
+      <created>1668255001900</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668255001900</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
